@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Onegram chat
+    url: https://t.me/onegramchat
+    about: Questions and help from other users
+  - name: Onegram support
+    url: https://t.me/OnegramSupportBot
+    about: Write to the team directly

@@ -12,13 +12,13 @@ Same account, same chats. Plus one feed for all channels, translation of whole c
 [![License](https://img.shields.io/badge/license-GPL--2.0-2F96E0)](LICENSE)
 [![Telegram](https://img.shields.io/badge/Telegram-@onegramnews-2F96E0?logo=telegram&logoColor=white)](https://t.me/onegramnews)
 
-[Website](https://onegram.me) · [Download](https://github.com/onegramteam/onegram/releases/latest) · [News](https://t.me/onegramnews) · [Chat](https://t.me/onegramchat)
+[Website](https://onegram.me) · [Download](https://github.com/onegramteam/onegram/releases/latest) · [Features](docs/FEATURES.md) · [News](https://t.me/onegramnews) · [Chat](https://t.me/onegramchat)
 
 </div>
 
 ---
 
-Onegram is an unofficial Telegram client for Android, built on the official Telegram source code. Your account, your chats and your contacts stay the same: sign in with your number and everything loads from the Telegram cloud.
+Onegram is an unofficial Telegram client for Android, built on the official Telegram source code: a Telegram client for Android with translation of whole chats, one feed for all channels, free business tools (working hours, auto-replies, chat labels), a music library, chat locks, AI with your own key and Tor with a kill switch. Your account, your chats and your contacts stay the same: sign in with your number and everything loads from the Telegram cloud.
 
 ## Features
 
@@ -30,7 +30,7 @@ Onegram is an unofficial Telegram client for Android, built on the official Tele
 
 **AI on your own key** — summarise a long chat, rewrite your reply. Your data is never used for training.
 
-And more:
+And more — see [all 211 features](docs/FEATURES.md):
 
 - PIN or fingerprint on chosen chats and folders
 - Music library: every track from your chats in one player
@@ -51,6 +51,14 @@ And more:
 | Tor with a kill switch | ✓ | — |
 | Translate whole chats | free | Premium |
 | Business: hours, auto-replies, labels | free | Premium |
+
+## Documentation
+
+- [All 211 features](docs/FEATURES.md), section by section
+- [Installing and updating](docs/INSTALL.md)
+- [FAQ](docs/FAQ.md)
+- [Changelog](CHANGELOG.md)
+- [Security](SECURITY.md)
 
 ## Download
 
